@@ -1,0 +1,24 @@
+{
+  "name": "swip",
+  "version": "1.0.0",
+  "main": "serverdiamond.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serverdiamond"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hussainibulama/swiptemplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hussainibulama/swiptemplate/issues"
+  },
+  "homepage": "https://github.com/hussainibulama/swiptemplate#readme",
+  "description": ""
+}
